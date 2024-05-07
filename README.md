@@ -1,10 +1,14 @@
 # bjtu本科毕设补充包
 
+务必用`xelatex`编译，如果你用overleaf可以从左上角menu里选择编译器为`xelatex`
+
 本模版是我在前人[@ipChrisLee](https://github.com/ipChrisLee)基础上改的补充包，fork并改自[ipChrisLee/thesis: LaTeX Thesis template of ipLee (github.com)](https://github.com/ipChrisLee/thesis)。
 
 增加了2024年毕设的`诚信声明`和`外文原文与译文`，有任何格式问题请随时提issue或者PR。
 
 外文原文放到`sections/English.tex`中，中文翻译放到`sections/Chinese.tex`中，章节编号、图表的称呼和编号都会自动切换。
+
+不熟悉latex建议用word！
 
 以下为原readme：
 
